@@ -21,8 +21,8 @@
 //    [SVProgressHUD show];
 //    [SVProgressHUD showWithStatus:@"正在加载"];
 //    [SVProgressHUD showSuccessWithStatus:@"加载完成"];
-    [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
-    [SVProgressHUD show];
+//    [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
+//    [SVProgressHUD show];
     // Do any additional setup after loading the view, typically from a nib.
 }
 

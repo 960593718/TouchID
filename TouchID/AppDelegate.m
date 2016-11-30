@@ -22,7 +22,8 @@
         
         return YES;
     }
-//    [self evaluateAuthenticate];
+    
+    [self evaluateAuthenticate];
     
     return YES;
 }
